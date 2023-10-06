@@ -9,7 +9,6 @@ if N = 7, so the 2D array is :
 * * * * * * *
 */
 
-#include <iostream> 
 #include <iostream>
 using namespace std;
 
